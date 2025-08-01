@@ -11,97 +11,107 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asraf2004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Asraf2004&label=Profile%20views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-> Passionate cybersecurity explorer with hands-on experience in:
-- 🛡️ Web Penetration Testing & Secure Coding  
-- 🐍 Python | 🛠️ C | 💾 MySQL  
-- 🔬 Bug Bounty Hunting | 🎯 CTFs | 🔧 Security Tooling
+> 🧠 Security-focused learner | 💻 Code Defender | 🎯 CTF Addict
 
-Currently pursuing **B.E. CSE** @ K. S. Rangasamy College of Technology  
-📊 **CGPA:** 8.88/10 _(till 5th semester)_
+- 🔐 Web Penetration Testing & Secure Code Review  
+- 🐍 Python | 🛠️ C | 💾 MySQL  
+- 🛡️ Bug Bounty | 🕵️‍♂️ OSINT | ⚔️ Threat Hunting  
+- 👨‍🎓 B.E. CSE @ K. S. Rangasamy College (8.88/10)
 
 ---
 
-## 🚀 Projects
+## 🛡️ Live Security Badges
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/asrafahamed08.png" alt="TryHackMe Rank" width="200px">  
+  <br><br>
+  <a href="https://portswigger.net/web-security"><img src="https://portswigger.net/web-security/images/badges/certified-badge.svg" alt="PortSwigger Academy Badge" height="80px"/></a>
+</p>
+
+---
+
+## 🚀 Notable Projects
 
 <details>
-  <summary><b>🛡️ ARP Spoofing Detection System</b> (C + libpcap)</summary>
-  • Monitors network traffic for spoofed ARP packets  
-  • Detects attacks in real-time & raises alerts  
-  • Built using `libpcap` in C
+  <summary><b>🛡️ ARP Spoofing Detection</b></summary>
+  • Monitors ARP packets using libpcap  
+  • Real-time spoofing alert system  
+  • C-based lightweight network sniffer
 </details>
 
 <details>
-  <summary><b>🧪 Secure Code Analysis Tool</b> (Python + Flask)</summary>
-  • Upload `.py` files for vulnerability scanning  
-  • User login, file validation, scan dashboard  
-  • Finalist: Cyberthon 2025 – Top 75/600+ teams
+  <summary><b>🧪 Secure Code Analyzer</b></summary>
+  • Flask app that scans uploaded `.py` files for static vulnerabilities  
+  • Role-based login, report dashboard  
+  • Finalist in Cyberthon 2025 (Top 75/600+)
 </details>
 
 <details>
-  <summary><b>🔁 Socket-Based Echo Server</b> (Python)</summary>
-  • TCP server with multithreaded socket programming  
-  • Receives & echoes full client messages
+  <summary><b>🔁 Echo Server</b></summary>
+  • Multi-threaded Python TCP server  
+  • Robust socket communication logic  
+  • Simulates chat-style protocol
 </details>
 
 <details>
-  <summary><b>👨‍💼 HR Management System (Internship Project)</b></summary>
-  • Built with HTML, CSS, JavaScript, PHP, MySQL  
-  • Includes employee login, leave & payroll manager
+  <summary><b>👨‍💼 HRMS (Intern Project)</b></summary>
+  • Full-stack CRUD: HTML/CSS + PHP + MySQL  
+  • Attendance, payroll, leave tracking  
+  • Internship at Calanjiyam Technologies
 </details>
 
 ---
 
 ## 📜 Certifications
 
-🎓 TryHackMe: Pre-Security  
-🎓 NPTEL: Cyber Security and Privacy, Problem Solving in C  
-🎓 Joy of Computing Using Python  
-🎓 SNA: Learn Art Hacking Through Programming (LAHTP)
+- 🛡️ TryHackMe: Pre-Security  
+- 🔐 NPTEL: Cyber Security & Privacy, C Programming  
+- 🐍 Joy of Computing in Python  
+- 🧑‍💻 LAHTP – Learn Art Hacking Through Programming  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Languages**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+**Security Tools**:  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Sqlmap](https://img.shields.io/badge/Sqlmap-yellow?style=for-the-badge)
+
+**Platforms & DevOps**:  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 🏆 Achievements
 
-🥇 **Cyberthon 2025 Finalist** – Top 75 out of 600+  
-🐞 **Bug Bounty @ KPR College** – SQLi, XSS, Origin IP bugs  
-🎯 **CTF Rank 11 Nationally** – ₹200 bounty for responsible disclosure
+🏁 Finalist – **Cyberthon 2025** (Top 75 of 600+ teams)  
+🐞 Bug bounty report – **SQLi & XSS** on college site (₹200 bounty)  
+🎯 **11th rank** – National CTF @ KPR College  
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asraf2004&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Asraf2004&theme=radical" width="47%" />
-</p>
+📧 **asrafahamed08@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/asrafahamed/)  
+🌐 [GitHub](https://github.com/Asraf2004)  
+🛡️ [TryHackMe](https://tryhackme.com/p/asrafahamed08)
 
 ---
 
-## 📫 Contact
-
-📧 Email: **asrafahamed08@gmail.com**  
-🌐 GitHub: [Asraf2004](https://github.com/Asraf2004)  
-🔗 LinkedIn: [asrafahamed](https://www.linkedin.com/in/asrafahamed/)  
-🛡️ TryHackMe: [asrafahamed08](https://tryhackme.com/p/asrafahamed08)
