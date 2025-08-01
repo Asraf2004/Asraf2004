@@ -5,13 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asrafahamed/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="https://github.com/Asraf2004"><img src="https://img.shields.io/badge/GitHub-Asraf2004-black?logo=github&style=for-the-badge"></a>
-  <a href="https://tryhackme.com/p/asrafahamed08"><img src="https://img.shields.io/badge/TryHackMe-asrafahamed08-red?logo=tryhackme&style=for-the-badge"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asraf2004&label=Profile%20views&color=blueviolet&style=flat-square" />
+  <a href="https://www.linkedin.com/in/asrafahamed/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Asraf2004"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/asrafahamed08"><img src="https://img.shields.io/badge/-TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 </p>
 
 ---
@@ -24,16 +20,6 @@
 - 🐍 Python | 🛠️ C | 💾 MySQL  
 - 🛡️ Bug Bounty | 🕵️‍♂️ OSINT | ⚔️ Threat Hunting  
 - 👨‍🎓 B.E. CSE @ K. S. Rangasamy College (8.88/10)
-
----
-
-## 🛡️ Live Security Badges
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/asrafahamed08.png" alt="TryHackMe Rank" width="200px">  
-  <br><br>
-  <a href="https://portswigger.net/web-security"><img src="https://portswigger.net/web-security/images/badges/certified-badge.svg" alt="PortSwigger Academy Badge" height="80px"/></a>
-</p>
 
 ---
 
@@ -78,23 +64,21 @@
 
 ---
 
-## 🛠️ Skills & Stack
+## 🛠️ Skills & Tech Stack
 
-**Languages**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Security Tools**:  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Sqlmap](https://img.shields.io/badge/Sqlmap-yellow?style=for-the-badge)
-
-**Platforms & DevOps**:  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+</p>
 
 ---
 
@@ -108,10 +92,8 @@
 
 ## 📫 Contact Me
 
-📧 **asrafahamed08@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/asrafahamed/)  
-🌐 [GitHub](https://github.com/Asraf2004)  
-🛡️ [TryHackMe](https://tryhackme.com/p/asrafahamed08)
-
----
-
+<p align="center">
+  <a href="mailto:asrafahamed08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/asrafahamed/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Asraf2004"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
