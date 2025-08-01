@@ -1,76 +1,113 @@
-# 🔐 Asraf Ahamed A – Cybersecurity & Full Stack Enthusiast
+<h1 align="center">🔐 Asraf Ahamed A</h1>
+<p align="center">
+  <b>Cybersecurity Enthusiast | Full Stack Developer | Bug Bounty Hunter</b><br>
+  📍 Salem, Tamil Nadu • 📧 asrafahamed08@gmail.com
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/asrafahamed/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Asraf2004)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-asrafahamed08-red?logo=tryhackme)](https://tryhackme.com/p/asrafahamed08)
+<p align="center">
+  <a href="https://www.linkedin.com/in/asrafahamed/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="https://github.com/Asraf2004"><img src="https://img.shields.io/badge/GitHub-Asraf2004-black?logo=github"></a>
+  <a href="https://tryhackme.com/p/asrafahamed08"><img src="https://img.shields.io/badge/TryHackMe-asrafahamed08-red?logo=tryhackme"></a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-Cybersecurity enthusiast with hands-on experience in **Web Penetration Testing**, **Secure Code Review**, and **Security Analysis**. Proficient in **Python, C, MySQL**, and passionate about **bug bounty hunting**, **CTFs**, and **building security tools**.  
-Currently pursuing **B.E. in Computer Science Engineering** (CGPA: 8.88/10).
+
+> Passionate cybersecurity explorer with hands-on experience in:
+- 🛡️ Web Penetration Testing & Secure Coding
+- 🐍 Python | 🛠️ C | 💾 MySQL
+- 🔬 Bug Bounty Hunting | 🎯 CTFs | 🔧 Security Tooling
+
+Currently pursuing **B.E. CSE** @ K. S. Rangasamy College of Technology  
+📊 **CGPA:** 8.88/10 _(till 5th semester)_
 
 ---
 
-## 🛡️ Security Projects
+## 🚀 Projects
 
-### 🔸 ARP Spoofing Detection System
-> C + libpcap  
-- Developed a network tool to **monitor ARP packets** and detect **spoofing attacks** in real-time.  
-- Triggered alerts on anomalies using packet inspection.  
-- Strengthens LAN security and ARP integrity.
+<details>
+  <summary><b>🛡️ ARP Spoofing Detection System</b> (C + libpcap)</summary>
+  
+  - Monitors network traffic for spoofed ARP packets
+  - Detects attacks in real-time & raises alerts
+  - Built using `libpcap` in C for performance & control
+</details>
 
-### 🔸 Secure Code Analysis Tool
-> Python + Flask + HTML/CSS/JS  
-- Built a web app that **analyzes uploaded `.py` files for vulnerabilities** using static analysis.  
-- Features: User login, file validation, vulnerability scan dashboard.  
-- Recognized as a finalist in **Cyberthon 2025** (Top 75/600+ teams).
+<details>
+  <summary><b>🧪 Secure Code Analysis Tool</b> (Python + Flask)</summary>
+  
+  - Upload `.py` files for vulnerability scanning using static analysis
+  - Built secure login, file validation, and scan dashboard
+  - Finalist: Cyberthon 2025 – Top 75/600+ teams
+</details>
 
-### 🔸 Socket-Based Echo Server
-> Python + Sockets  
-- Developed a TCP server capable of **receiving and echoing messages** from multiple clients.  
-- Demonstrates knowledge of **socket communication and multi-threading**.
+<details>
+  <summary><b>🔁 Socket-Based Echo Server</b> (Python)</summary>
+  
+  - TCP server that receives and echoes full client messages
+  - Demonstrates multithreaded socket programming
+</details>
 
----
-
-## 💻 Full Stack Project
-
-### 🔸 Human Resource Management System (HRMS)
-> HTML + CSS + JavaScript + PHP + MySQL  
-- Built as part of a **10-week internship** at Calanjiyam Consultancies.  
-- Implemented user authentication, employee database, and leave management.  
-- Developed using full-stack principles, optimized for performance and usability.
+<details>
+  <summary><b>👨‍💼 HR Management System (Internship Project)</b></summary>
+  
+  - Full stack web app: `HTML + CSS + JS + PHP + MySQL`
+  - Built employee database, login/logout, leave manager
+  - Completed during 10-week internship @ Calanjiyam Consultancies
+</details>
 
 ---
 
 ## 📜 Certifications
-- TryHackMe: Pre-Security  
-- NPTEL: Cyber Security and Privacy, Problem Solving in C, Joy of Computing Using Python  
-- Selmade Ninja Academy: Learn Art of Hacking Through Programming
+
+- ✅ TryHackMe: Pre-Security  
+- ✅ NPTEL: Cyber Security and Privacy  
+- ✅ Problem Solving in C  
+- ✅ Joy of Computing Using Python  
+- ✅ Privacy & Security in Online Social Media  
+- ✅ Selmade Ninja Academy: LAHTP (Learn Art Hacking Through Programming)
 
 ---
 
-## 🧠 Skills
+## 🛠️ Tech Stack & Tools
 
-| Category             | Technologies/Tools                                                  |
-|----------------------|----------------------------------------------------------------------|
-| Programming          | Python, C, Java                                                      |
-| Web Stack            | HTML, CSS, JavaScript, PHP, Flask, MySQL                            |
-| Security Tools       | Burp Suite, Nmap, Metasploit, OWASP ZAP, Wireshark, Snort, Zeek     |
-| Frameworks & Defense | MITRE ATT&CK, Cyber Kill Chain, YARA, OSINT, Threat Hunting         |
-| Platforms & DevOps   | Linux, Docker, Git, GitHub                                           |
-| Interests            | VAPT, Web Pentesting, Bug Bounty, CTFs                              |
+**Languages:**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)  
+
+**Tools & Platforms:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat&logo=burpsuite&logoColor=white)
+
+**Security Stack:**  
+- Burp Suite, OWASP ZAP, Metasploit, Sqlmap, Snort, Zeek, Nmap  
+- MITRE ATT&CK, YARA, Cyber Kill Chain, OSINT, Threat Hunting
 
 ---
 
 ## 🏆 Achievements
-- 🥇 Finalist – **Cyberthon 2025**, Defcon Coimbatore – Secure Code Analysis Tool  
-- 🐞 Reported **SQLi, XSS, and Origin IP bugs** in KPR College site; Recognized by HOD  
-- 🧠 Placed **11th nationally** in a CTF, awarded ₹200 bounty for responsible disclosure
+
+🏁 **Cyberthon 2025 Finalist**  
+> Top 75 out of 600+ teams, presented Secure Code Analysis Tool at Defcon Coimbatore
+
+🐞 **Bug Bounty @ KPR College**  
+> Discovered SQLi, XSS, and IP bugs; Recognized by HOD
+
+🎯 **National-Level CTF**  
+> Ranked 11th; awarded ₹200 bounty for responsible disclosure
 
 ---
 
-## 📬 Contact
-📧 asrafahamed08@gmail.com  
-📍 Salem, Tamil Nadu  
-🔗 [GitHub](https://github.com/Asraf2004) • [LinkedIn](https://www.linkedin.com/in/asrafahamed/) • [TryHackMe](https://tryhackme.com/p/asrafahamed08)
+## 📫 Let's Connect!
+
+📧 Email: **asrafahamed08@gmail.com**  
+🌐 GitHub: [Asraf2004](https://github.com/Asraf2004)  
+🔗 LinkedIn: [asrafahamed](https://www.linkedin.com/in/asrafahamed/)  
+🛡️ TryHackMe: [asrafahamed08](https://tryhackme.com/p/asrafahamed08)
+
+---
+
